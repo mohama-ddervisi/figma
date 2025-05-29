@@ -1,0 +1,62 @@
+html, body {
+   padding: 0;
+   margin: 0;
+width: 100%;
+max-width: 100%;
+}
+.base{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+.lnitial-line{
+    display: flex;
+    justify-content: center;
+ position: relative;
+ margin-left: 210px;
+    height: 130px;
+}
+.text-up{
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  
+}
+.text-up-two{
+    display: flex;
+    position: relative;
+    right: 205px;
+    font-family: sans-serif;
+    top: 6px;
+}
+.second-line{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+  
+
+}
+ .text-one{
+    display: flex;
+    gap:12px;
+   align-items: flex-start;
+   font-weight: bold;
+   font-family: sans-serif;
+ }
+ .second-line-two{
+    display: flex;
+    justify-content: center;
+    
+    gap: 300px;
+    margin-top: 6%;
+   
+
+}
+ .text-two{
+    display: flex;
+    gap:12px;
+   align-items: flex-start;
+   font-weight: bold;
+   font-family: sans-serif;
+ }
